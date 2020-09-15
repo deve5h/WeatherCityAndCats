@@ -1,5 +1,8 @@
 # https://aws.amazon.com/apache-2-0/
+# https://drive.google.com/drive/folders/1yHxFTMu7K0XeNAqDFdiUgBZfSBzWit7l?usp=sharing
 # Static Website
+
+I've shared a drive link in the secondmost line where you can view the video clips and can have an idea about what the end results will look like.
 
 The goal of this website is to support the learning of the Building Serverless Applications course.
 
